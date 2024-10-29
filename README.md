@@ -1,3 +1,12 @@
+# Playwright / axe PC・SP各ページの自動テスト
+
+| Command               | Action   |
+| :-------------------- | :------- |
+| `npx playwright test` | Run test |
+
+<details>
+<summary>Astro Starter Kit</summary>
+
 # Astro Starter Kit: Basics
 
 ```sh
@@ -52,3 +61,5 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+</details>
